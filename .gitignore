@@ -1,2 +1,13 @@
 #Ignorar todos los archivos .jpg
 *.jpg 
+
+#Ignorar carpetas
+#/nombrecarpeta
+
+#Ignorar archivo
+#archivo.ext
+
+#Ignorar archivos específicos
+#/carpeta1/nombre.archivo
+#No ignorar
+#!/carpeta1/archivo.ext
