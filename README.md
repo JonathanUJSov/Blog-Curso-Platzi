@@ -1,4 +1,4 @@
-# [Blog Curso Git - Github](https://github.com/JonathanUJSov/Blog-Curso-Platzi) :fa-github:
+# [Blog Curso Git - Github](https://github.com/JonathanUJSov/Blog-Curso-Platzi) 🇲🇽
 Un blog del curso de [Git](https://git-scm.com) y [GitHub](https://github.com) de [Platzi](https://platzi.com). 💚
 
 >"Este blog se creó durante el curso de Git y GitHub de Platzi, he aprendido bastante"
